@@ -34,6 +34,9 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Some Extra's
 ANCIENT_OFFICIAL=true
 
+# OTA
+FORCE_OTA=true
+
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mido
 PRODUCT_NAME := ancient_mido
